@@ -28,6 +28,25 @@
   color: #61dafb;
 }
 
+.react-bingmaps{ width: 100%; height: 100%;margin-top:2px }
+
+.map-three{
+  position: relative;
+}
+
+.directionsPanel{
+  position: absolute;
+    background-color: #fff;
+    top: 50px;
+    left: 50px;
+    height: 500px;
+    overflow: auto;
+}
+
+.container { height: 91vh; }
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
